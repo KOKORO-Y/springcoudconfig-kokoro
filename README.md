@@ -1,0 +1,2 @@
+# springcoudconfig-kokoro
+springcloudConfig
